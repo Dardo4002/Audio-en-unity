@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Red
+  - White
+  - Black
+  - Yellow
+  - Blue
+  - Terrain
+  - cube
+  - CannonBall
+  - Wall
+  - Tarject
+  - Basketball_backboard
+  - Trigger_win
   layers:
   - Default
   - TransparentFX
